@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="WhatsApp_WEB" />
+        <module name="Automation_Whatsapp_WEB" />
       </profile>
     </annotationProcessing>
   </component>
